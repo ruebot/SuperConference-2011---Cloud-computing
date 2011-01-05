@@ -42,6 +42,15 @@
 <node CREATED="1294169263611" ID="Freemind_Link_1495232787" MODIFIED="1294169332405" TEXT="output was sporatic (nodes dropping)"/>
 <node CREATED="1294169333617" ID="Freemind_Link_281721271" MODIFIED="1294169333617" TEXT=""/>
 </node>
+<node CREATED="1294245962096" ID="Freemind_Link_1086197684" MODIFIED="1294245966104" TEXT="postmortem?">
+<node CREATED="1294245966574" ID="Freemind_Link_1800768879" MODIFIED="1294245973139" TEXT="Very new, unproven tech with few users"/>
+<node CREATED="1294245973413" ID="Freemind_Link_1176848646" MODIFIED="1294245984485" TEXT="side-ish project from NYT"/>
+<node CREATED="1294245984821" ID="Freemind_Link_1146355607" MODIFIED="1294246010910" TEXT="our (John&apos;s) piss-poor Ruby skills"/>
+</node>
+<node CREATED="1294246019832" ID="Freemind_Link_1541554164" MODIFIED="1294246023060" TEXT="Why did we pick it?">
+<node CREATED="1294246024347" ID="Freemind_Link_1542117663" MODIFIED="1294246027493" TEXT="SGE sucked."/>
+<node CREATED="1294246027787" ID="Freemind_Link_27307056" MODIFIED="1294246032088" TEXT="Cassandra was Too Big"/>
+</node>
 </node>
 </node>
 <node CREATED="1294188930405" ID="Freemind_Link_1796731094" MODIFIED="1294189055901" TEXT="Definition - http://net.educause.edu/ir/library/pdf/EST0902.pdf">
