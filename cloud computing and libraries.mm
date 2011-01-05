@@ -10,13 +10,23 @@
 <node CREATED="1294168591288" ID="Freemind_Link_117345317" MODIFIED="1294168594724" TEXT="hadoop"/>
 <node CREATED="1294168784770" ID="Freemind_Link_1982021355" MODIFIED="1294168800678" TEXT="Sun grid engine"/>
 </node>
-<node CREATED="1294169027435" ID="Freemind_Link_681945786" MODIFIED="1294188755499" TEXT="Why not remote?"/>
 </node>
-<node CREATED="1294170668547" ID="Freemind_Link_1448779636" MODIFIED="1294170673131" TEXT="What&apos;s wrong with remote?">
+<node CREATED="1294170668547" ID="Freemind_Link_1448779636" MODIFIED="1294246624105" TEXT="remote">
+<node CREATED="1294246627963" ID="Freemind_Link_207749044" MODIFIED="1294246633418" TEXT="what&apos;s wrong with remote?">
 <node CREATED="1294170673656" ID="Freemind_Link_1353515752" MODIFIED="1294170676323" TEXT="loss of control">
 <node CREATED="1294170678671" ID="Freemind_Link_1800160357" MODIFIED="1294170681543" TEXT="del.icio.us"/>
-<node CREATED="1294170681837" ID="Freemind_Link_1003438504" MODIFIED="1294170686021" TEXT="Jason scott &quot;fuck the cloud&quot;"/>
+<node CREATED="1294170681837" ID="Freemind_Link_1003438504" MODIFIED="1294170686021" TEXT="Jason scott &quot;fuck the cloud&quot;">
 <node CREATED="1294188701190" ID="Freemind_Link_772231206" MODIFIED="1294188709492" TEXT="Ma.gnolia - FFUU!"/>
+</node>
+</node>
+</node>
+<node CREATED="1294246637703" ID="Freemind_Link_398354440" MODIFIED="1294246640275" TEXT="What&apos;s right with remote?">
+<node CREATED="1294246658865" ID="Freemind_Link_1304557563" MODIFIED="1294246663377" TEXT="Ease of deployment"/>
+<node CREATED="1294246664116" ID="Freemind_Link_556012291" MODIFIED="1294246668269" TEXT="cheap! (usually)">
+<node CREATED="1294246682530" ID="Freemind_Link_1874535014" MODIFIED="1294246683835" TEXT="examples">
+<node CREATED="1294246668649" ID="Freemind_Link_809313844" MODIFIED="1294246680023" TEXT="that PEI (?? maybe NB or NS) election site"/>
+</node>
+</node>
 </node>
 </node>
 </node>
@@ -50,6 +60,7 @@
 <node CREATED="1294246019832" ID="Freemind_Link_1541554164" MODIFIED="1294246023060" TEXT="Why did we pick it?">
 <node CREATED="1294246024347" ID="Freemind_Link_1542117663" MODIFIED="1294246027493" TEXT="SGE sucked."/>
 <node CREATED="1294246027787" ID="Freemind_Link_27307056" MODIFIED="1294246032088" TEXT="Cassandra was Too Big"/>
+<node CREATED="1294246591508" ID="Freemind_Link_1440380873" MODIFIED="1294246596114" TEXT="John has a Ruby fetish."/>
 </node>
 </node>
 </node>
