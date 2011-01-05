@@ -1,4 +1,4 @@
-<map version="0.8.0">
+<map version="0.8.1">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
 <node CREATED="1294168120223" ID="Freemind_Link_1635245266" MODIFIED="1294169903730" TEXT="Local clouds in the sky with diamonds?">
 <node CREATED="1294168539522" ID="Freemind_Link_374954039" MODIFIED="1294168543726" POSITION="left" TEXT="John">
@@ -10,12 +10,13 @@
 <node CREATED="1294168591288" ID="Freemind_Link_117345317" MODIFIED="1294168594724" TEXT="hadoop"/>
 <node CREATED="1294168784770" ID="Freemind_Link_1982021355" MODIFIED="1294168800678" TEXT="Sun grid engine"/>
 </node>
-<node CREATED="1294169027435" ID="Freemind_Link_681945786" MODIFIED="1294169033952" TEXT="Why not remote?"/>
+<node CREATED="1294169027435" ID="Freemind_Link_681945786" MODIFIED="1294188755499" TEXT="Why not remote?"/>
 </node>
 <node CREATED="1294170668547" ID="Freemind_Link_1448779636" MODIFIED="1294170673131" TEXT="What&apos;s wrong with remote?">
 <node CREATED="1294170673656" ID="Freemind_Link_1353515752" MODIFIED="1294170676323" TEXT="loss of control">
 <node CREATED="1294170678671" ID="Freemind_Link_1800160357" MODIFIED="1294170681543" TEXT="del.icio.us"/>
 <node CREATED="1294170681837" ID="Freemind_Link_1003438504" MODIFIED="1294170686021" TEXT="Jason scott &quot;fuck the cloud&quot;"/>
+<node CREATED="1294188701190" ID="Freemind_Link_772231206" MODIFIED="1294188709492" TEXT="Ma.gnolia - FFUU!"/>
 </node>
 </node>
 </node>
@@ -42,6 +43,15 @@
 <node CREATED="1294169333617" ID="Freemind_Link_281721271" MODIFIED="1294169333617" TEXT=""/>
 </node>
 </node>
+</node>
+<node CREATED="1294188930405" ID="Freemind_Link_1796731094" MODIFIED="1294189055901" TEXT="Definition - http://net.educause.edu/ir/library/pdf/EST0902.pdf">
+<node CREATED="1294188946372" ID="Freemind_Link_866758601" MODIFIED="1294188958680" TEXT="What is it?"/>
+<node CREATED="1294188959476" ID="Freemind_Link_773565814" MODIFIED="1294188963552" TEXT="Who is doing it?"/>
+<node CREATED="1294188964100" ID="Freemind_Link_867262961" MODIFIED="1294188972176" TEXT="How does it work?"/>
+<node CREATED="1294188972636" ID="Freemind_Link_968140972" MODIFIED="1294188980559" TEXT="Why is it significant?"/>
+<node CREATED="1294188981012" ID="Freemind_Link_304854527" MODIFIED="1294189098707" TEXT="What are the downsides? - BLAH BLAH, JOHN WILL TALK ABOUT THIS"/>
+<node CREATED="1294188993163" ID="Freemind_Link_1955244144" MODIFIED="1294188997423" TEXT="Where is it going?"/>
+<node CREATED="1294188997947" ID="Freemind_Link_1885628415" MODIFIED="1294189080508" TEXT="What is the implication for libraries? - JOHN YOU SHOULD HIT THIS LATER IN THE TALK"/>
 </node>
 </node>
 </node>
