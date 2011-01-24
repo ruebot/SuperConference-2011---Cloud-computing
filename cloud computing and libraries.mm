@@ -1,4 +1,4 @@
-<map version="0.8.1">
+<map version="0.8.0">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
 <node CREATED="1294168120223" ID="Freemind_Link_1635245266" MODIFIED="1294169903730" TEXT="Local clouds in the sky with diamonds?">
 <node CREATED="1294168539522" ID="Freemind_Link_374954039" MODIFIED="1294168543726" POSITION="left" TEXT="John">
@@ -9,6 +9,7 @@
 <node CREATED="1294168583657" ID="Freemind_Link_184824817" MODIFIED="1294168590412" TEXT="glusterfs"/>
 <node CREATED="1294168591288" ID="Freemind_Link_117345317" MODIFIED="1294168594724" TEXT="hadoop"/>
 <node CREATED="1294168784770" ID="Freemind_Link_1982021355" MODIFIED="1294168800678" TEXT="Sun grid engine"/>
+<node CREATED="1294168598976" ID="Freemind_Link_705687165" MODIFIED="1294690018648" TEXT="eucalyptus"/>
 </node>
 </node>
 <node CREATED="1294170668547" ID="Freemind_Link_1448779636" MODIFIED="1294246624105" TEXT="remote">
@@ -35,8 +36,6 @@
 </node>
 <node CREATED="1294168554210" ID="Freemind_Link_477102169" MODIFIED="1294168556254" POSITION="right" TEXT="Nick">
 <node CREATED="1294168559657" ID="Freemind_Link_1094956907" MODIFIED="1294169042391" TEXT="Products">
-<node CREATED="1294168595329" ID="Freemind_Link_951692985" MODIFIED="1294168598100" TEXT="cassandra"/>
-<node CREATED="1294168598976" ID="Freemind_Link_705687165" MODIFIED="1294690018648" TEXT="eucalyptus"/>
 <node CREATED="1294168740916" ID="Freemind_Link_274157032" MODIFIED="1294168885651" TEXT="cloud crowd">
 <node CREATED="1294169105280" ID="Freemind_Link_703339639" MODIFIED="1294169108108" TEXT="define"/>
 <node CREATED="1294169109872" ID="Freemind_Link_1637245698" MODIFIED="1294169114003" TEXT="how we used it">
