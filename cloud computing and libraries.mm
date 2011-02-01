@@ -1,16 +1,16 @@
-<map version="0.8.0">
+<map version="0.8.1">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
 <node CREATED="1294168120223" ID="Freemind_Link_1635245266" MODIFIED="1294169903730" TEXT="Local clouds in the sky with diamonds?">
 <node CREATED="1294168539522" ID="Freemind_Link_374954039" MODIFIED="1294168543726" POSITION="left" TEXT="John">
-<node CREATED="1294168483257" ID="_" MODIFIED="1294170630190" TEXT="definiition"/>
 <node CREATED="1294168608480" ID="Freemind_Link_234733625" MODIFIED="1294170637907" TEXT="local">
-<node CREATED="1294168669318" ID="Freemind_Link_152674649" MODIFIED="1294168680315" TEXT="Why local?"/>
+<node CREATED="1294168669318" ID="Freemind_Link_152674649" MODIFIED="1296572092700" TEXT="Why?"/>
 <node CREATED="1294168688865" ID="Freemind_Link_116056757" MODIFIED="1294168693337" TEXT="Products">
 <node CREATED="1294168583657" ID="Freemind_Link_184824817" MODIFIED="1294168590412" TEXT="glusterfs"/>
 <node CREATED="1294168591288" ID="Freemind_Link_117345317" MODIFIED="1294168594724" TEXT="hadoop"/>
 <node CREATED="1294168784770" ID="Freemind_Link_1982021355" MODIFIED="1294168800678" TEXT="Sun grid engine"/>
 <node CREATED="1294168598976" ID="Freemind_Link_705687165" MODIFIED="1294690018648" TEXT="eucalyptus"/>
 </node>
+<node CREATED="1294168483257" ID="_" MODIFIED="1294170630190" TEXT="definiition"/>
 </node>
 <node CREATED="1294170668547" ID="Freemind_Link_1448779636" MODIFIED="1294246624105" TEXT="remote">
 <node CREATED="1294246627963" ID="Freemind_Link_207749044" MODIFIED="1294246633418" TEXT="what&apos;s wrong with remote?">
